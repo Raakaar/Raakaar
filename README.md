@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I’m Osei Harper (aka Raakaar)
 
-<!--
-**Raakaar/Raakaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Principal IT Architect | 🛠️ PowerShell Engineer | 🧠 FUSE Framework Author
 
-Here are some ideas to get you started:
+With 20+ years of experience delivering enterprise-grade solutions across cloud, security, virtualization, and sentiment-aware IT governance, I build systems that work—and that **work for people**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 Current Projects
+- 🎯 **Cerulean Reaper** – A PowerShell utility for BIOS-level ASUS service mitigation
+- 🧩 **FUSE** – The Framework for Unified Service Experience, realigning IT around human trust and emotional clarity
+- 📘 *The Price of Principle* – Memoir in development on ethics, retaliation, and tech systems
+
+### 🔧 Skills & Tools
+`PowerShell` `Azure` `AWS` `Virtualization` `DEX/UEM` `Enterprise Architecture` `Security Hardening` `Sentiment Telemetry`
+
+### 📫 Get in Touch
+- 🧠 Blog: coming soon
+- 📄 Resume: Available upon request or via LinkedIn
+- 🧵 LinkedIn: [linkedin.com/in/oseiharper](https://linkedin.com/in/oseiharper)
+
+---
+
+🌱 *“The best systems solve human problems—not just technical ones.”*
